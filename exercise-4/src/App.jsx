@@ -14,7 +14,6 @@ function App() {
             {AVAILABLE_PLACES.map((place) => (
               <Place key={place.id} place={place} />
             ))}
-            {/* For each place from AVAILABLE_PLACES, create a Place component */}
           </ul>
         </section>
       </main>

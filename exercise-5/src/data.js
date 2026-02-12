@@ -43,6 +43,6 @@ export const Info = [
         },
         name: "Neymar",
         class: "Class C",
-        hobbies: ["read"]
+        hobbies: ["reading", "writing"]
     }
 ]
